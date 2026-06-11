@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **AI & Cloud Data Professional** specializing in GenAI, cloud data architectures, and building scalable analytics solutions across multi-cloud environments.
 
-## 🚀 About Me
+## 🚀 About ME
 
 - 🤖 **GenAI & AI Enthusiast:** Experienced in building and deploying generative AI solutions, LLMs, and AI-driven applications
 - ☁️ **Multi-Cloud Data Architect:** Expert in designing and implementing cloud data solutions across Azure, AWS, and Google Cloud
